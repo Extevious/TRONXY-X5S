@@ -4,6 +4,8 @@
    "bltouch",
    "canbus",
    "corexy",
+   "corexz",
+   "deltesian",
    "EPCOS",
    "Fysetc",
    "heatbreak",
