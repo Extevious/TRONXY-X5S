@@ -11,6 +11,9 @@
    "pullup",
    "recalibrated",
    "Semitec",
-   "stealthchop"
+   "stealthchop",
+   "unretract",
+   "unretracting",
+   "unretraction"
 ]
 }
