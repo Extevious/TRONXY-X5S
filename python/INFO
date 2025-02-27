@@ -1,0 +1,2 @@
+These scripts are for use outside of Klipper, ex; a slicer that has Python post-processing support.
+If in the future Klipper natively supports Python script execution, then these can likely be used as well.
