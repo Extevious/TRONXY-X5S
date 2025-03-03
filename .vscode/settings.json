@@ -1,22 +1,23 @@
 {
   "cSpell.words": [
-    "BLDC",
-    "bltouch",
-    "canbus",
-    "configfile",
-    "corexy",
-    "corexz",
-    "deltesian",
-    "EPCOS",
-    "Fysetc",
-    "heatbreak",
-    "NTCG",
-    "pullup",
-    "recalibrated",
-    "Semitec",
-    "stealthchop",
-    "unretract",
-    "unretracting",
-    "unretraction"
-  ]
+   "BLDC",
+   "bltouch",
+   "canbus",
+   "configfile",
+   "corexy",
+   "corexz",
+   "deltesian",
+   "endmacro",
+   "EPCOS",
+   "Fysetc",
+   "heatbreak",
+   "NTCG",
+   "pullup",
+   "recalibrated",
+   "Semitec",
+   "stealthchop",
+   "unretract",
+   "unretracting",
+   "unretraction"
+]
 }
